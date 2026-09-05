@@ -13,3 +13,4 @@ A core traffic management system implemented using Java RMI and RPC.
 
 * Core traffic management functionality built using RMI and RPC.
 * order more priority accidents  for first.
+if like the project give me star
